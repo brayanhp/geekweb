@@ -1,0 +1,45 @@
+[21-Sep-2013 21:49:58 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/peruyapa/public_html/hackaton/db-cnn.php:3
+Stack trace:
+#0 /home/peruyapa/public_html/hackaton/db-cnn.php(3): PDO->__construct('mysql:host=loca...', 'root', '123456')
+#1 /home/peruyapa/public_html/hackaton/index.php(12): require_once('/home/peruyapa/...')
+#2 {main}
+  thrown in /home/peruyapa/public_html/hackaton/db-cnn.php on line 3
+[21-Sep-2013 21:50:53 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/peruyapa/public_html/hackaton/index.php on line 14
+[21-Sep-2013 21:51:53 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/peruyapa/public_html/hackaton/index.php on line 14
+[21-Sep-2013 21:51:59 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/peruyapa/public_html/hackaton/index.php on line 14
+[21-Sep-2013 22:11:14 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/peruyapa/public_html/hackaton/index.php on line 109
+[21-Sep-2013 22:52:58 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:54:22 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:54:24 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:54:50 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:54:52 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:55:16 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:55:17 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:20 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:21 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:22 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:22 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:23 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:23 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:49 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:50 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:50 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:51 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:56:51 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:57:09 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:57:11 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 22:57:13 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: missing ) at offset 1 in /home/peruyapa/public_html/hackaton/verdetalle.php on line 29
+[21-Sep-2013 23:14:20 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[21-Sep-2013 23:15:22 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[21-Sep-2013 23:15:24 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[21-Sep-2013 23:19:19 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[21-Sep-2013 23:20:35 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[21-Sep-2013 23:40:39 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/peruyapa/public_html/hackaton/verdetalle.php on line 76
+[21-Sep-2013 23:40:43 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/peruyapa/public_html/hackaton/verdetalle.php on line 76
+[21-Sep-2013 23:43:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/peruyapa/public_html/hackaton/verdetalle.php on line 76
+[21-Sep-2013 23:52:15 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/verdetalle.php on line 22
+[21-Sep-2013 23:52:38 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/verdetalle.php on line 22
+[21-Sep-2013 23:52:46 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/verdetalle.php on line 22
+[21-Sep-2013 23:52:56 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/verdetalle.php on line 22
+[22-Sep-2013 08:29:03 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa.php on line 22
+[22-Sep-2013 08:32:48 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/peruyapa/public_html/hackaton/mapa_only.php on line 18

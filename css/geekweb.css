@@ -1,0 +1,147 @@
+/**
+created by Pnkkito shiZheni erodriguez.androide@gmail.com
+*/
+
+.container
+{
+	max-width: 500px;
+}
+
+.first-map
+{
+	min-height: 200px;
+}
+
+i 
+{
+	font-size: 20px;
+}
+
+.list-rutas
+{
+	padding: 0;
+	background: #eeeeee;
+	padding-top: 10px;
+}
+
+.list-rutas blockquote
+{
+	border-bottom: 5px solid #C2BDBD;
+	border-right: 5px solid #C2BDBD;
+	background: #eeeeee;
+	border-left: 5px solid #C2BDBD;
+}
+
+.list-rutas a
+{
+	text-decoration: none;
+}
+
+.btn-group-justified .btn-opts
+{
+
+}
+
+blockquote p
+{
+	font-size: 14px;
+}
+
+
+.btn-list-menu-top .btn
+{
+	background-image: none ;
+	background-color: #222222;
+	color: white;
+	text-shadow: none;
+	border-radius: 0;
+	border: 0;
+}
+
+.preload
+{
+	text-align: center ;
+}
+
+.preload i 
+{
+	margin-top: 16%;	
+}
+
+.btn-list
+{
+	margin-top: 7px;
+}
+
+.sub-menu-geekweb
+{
+	padding: 0;
+}
+
+.sub-menu-geekweb .nav-tabs
+{
+	background:#333333;
+	border:0;
+	border-radius: 0;
+}
+
+.sub-menu-geekweb .nav-tabs li
+{
+	margin-bottom: 0;
+}
+
+.sub-menu-geekweb .nav-tabs li.active a
+{
+	background-color: #615A5A;
+	border:0 ;
+	border-radius: 0;
+	color: white;
+}
+
+.sub-menu-geekweb .nav-tabs li a
+{
+	background-color: #333333;
+	border:0 ;
+	border-radius: 0;
+	color: white;
+}
+
+
+#footer{
+			width: 500px;
+			height: 100px;
+			margin: 0 auto;
+		}
+			#footer img{
+			display: block;
+			margin: auto;
+			width: 10%;
+			float: right;
+		}
+
+
+
+/** BACK TOP */
+
+#back-top {
+	position: fixed;
+	bottom: 30px;
+}
+
+#back-top a {
+	width: auto;
+	display: block;
+	text-align: center;
+	font: 11px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+
+	/* transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+	color: #333333;
+}
